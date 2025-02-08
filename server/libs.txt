@@ -1,0 +1,36 @@
+# List of libs to be used 
+
+
+1- schema validation 
+https://github.com/bytedance/sonic
+https://github.com/go-playground/validator
+json/encoding 
+
+2- database 
+Gorm
+https://github.com/golang-migrate/migrate
+
+
+
+3- authentication 
+golang.org/x/crypto/bcrypt
+
+https://github.com/golang-jwt/jwt
+github.com/cristalhq/jwt
+
+https://github.com/golang/oauth2
+https://github.com/ory/hydra
+
+github.com/markbates/goth
+github.com/pquerna/otp
+
+github.com/abbot/go-http-auth
+
+
+
+# TODO
+- check gorm in fiber 
+- check gorm in fiber 
+- Router vs Group 
+- Locals, auth in fiber 
+- json.Newencoder
